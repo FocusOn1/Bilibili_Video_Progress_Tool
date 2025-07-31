@@ -34,10 +34,12 @@
   -  4、打开https://www.bilibili.com/ 这个网站，找到你想学习的视频即可开始享用！
 
 ## 效果
-![7.0效果1](${-图片}/7.0效果1.jpg)
+![7 0效果1](https://github.com/user-attachments/assets/f716307e-e622-46fc-b4ae-263b1d721266)
 
-![7.0效果2](${-图片}/7.0效果2.jpg)
+![7 0效果2](https://github.com/user-attachments/assets/969fe008-7224-4374-aafc-b1b7b8109f5a)
+
+
 
 演示效果：
+![7 0效果](https://github.com/user-attachments/assets/e65ee6a8-ff52-44a7-9816-4f63cf769d44)
 
-![7.0效果](${-图片}/7.0效果.gif)
