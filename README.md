@@ -34,10 +34,10 @@
   -  4、打开https://www.bilibili.com/ 这个网站，找到你想学习的视频即可开始享用！
 
 ## 效果
-![7.0效果1](D:\Git\Bilibili_Video_Progress_Tool\${-图片}\7.0效果1-1753998237462.jpg)
+![7.0效果1](${-图片}/7.0效果1.jpg)
 
-![7.0效果2](D:\Git\Bilibili_Video_Progress_Tool\${-图片}\7.0效果2-1753998244896.jpg)
+![7.0效果2](${-图片}\7.0效果2.jpg)
 
 演示效果：
 
-![7.0效果](D:\Git\Bilibili_Video_Progress_Tool\${-图片}\7.0效果.gif)
+![7.0效果](${-图片}\7.0效果.gif)
