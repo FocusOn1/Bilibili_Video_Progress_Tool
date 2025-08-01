@@ -43,3 +43,6 @@
 演示效果：
 ![7 0效果](https://github.com/user-attachments/assets/e65ee6a8-ff52-44a7-9816-4f63cf769d44)
 
+## ❤ 咖啡赞赏~
+如果本脚本对您有帮助，欢迎使用，感谢赞赏！<br>
+<img src="https://github.com/user-attachments/assets/9db7a0de-0b37-4dd7-94c3-ea1306a0a6f9" alt="咖啡赞赏码" width="25%" />
